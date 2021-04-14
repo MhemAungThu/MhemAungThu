@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, these are most of the things about me!
 
 <!--
 **MhemAungThu/MhemAungThu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
